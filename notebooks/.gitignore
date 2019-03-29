@@ -1,0 +1,5 @@
+# .gitignore
+
+# Don't add Jupyter notebook info
+
+.ipynb_checkpoints
