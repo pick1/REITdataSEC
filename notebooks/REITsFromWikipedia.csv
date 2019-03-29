@@ -1,0 +1,76 @@
+,company,type,ticker
+0,Lamar Advertising Company,Advertising,LAMR
+1,Outfront Media,Advertising,OUT
+2,Aimco,Apartments,AIV
+3,AvalonBay Communities,Apartments,AVB
+4,Camden Property Trust,Apartments,CPT
+5,Equity Residential,Apartments,EQR
+6,Essex Property Trust,Apartments,ESS
+7,Mid-America Apartment Communities,Apartments,MAA
+8,"UDR, Inc.",Apartments,UDR
+9,CoreSite,Data Center,COR
+10,CyrusOne,Data Center,CONE
+11,Digital Realty,Data Center,DLR
+12,Equinix,Data Center,EQIX
+13,Quality Technology Services,Data Center,QTS
+14,Alexander's,Diversified,ALX
+15,Cousins Properties,Diversified,CUZ
+16,EPR Properties,Diversified,EPR
+17,JBG Smith,Diversified,JBGS
+18,Vornado Realty Trust,Diversified,VNO
+19,W. P. Carey,Diversified,WPC
+20,"HCP, Inc.",Healthcare,HCP
+21,Welltower,Healthcare,WELL
+22,Ventas,Healthcare,VTR
+23,Medical Properties Trust,Healthcare,MPW
+24,New Senior Investment Group,Healthcare,SNR
+25,Prologis,Industrial,PLD
+26,PS Business Parks,Industrial,PSB
+27,Liberty Property Trust,Industrial,LPT
+28,Extended Stay America,Lodging,STAY
+29,Gaming and Leisure Properties,Lodging,GLPI
+30,Host Hotels & Resorts,Lodging,HST
+31,Hersha Hospitality Trust,Lodging,HT
+32,MGM Growth Properties,Lodging,MGP
+33,Park Hotels & Resorts,Lodging,PK
+34,Vici Properties,Lodging,VICI
+35,Sun Communities,Manufactured Housing,SUI
+36,UMH Properties,Manufactured Housing,UMH
+37,Annaly Capital Management,Mortgage,NLY
+38,Alexandria Real Estate Equities,Office,ARE
+39,Boston Properties,Office,BXP
+40,Brandywine Realty Trust,Office,BDN
+41,Corporate Office Properties Trust,Office,OFC
+42,Mack-Cali Realty Corporation,Office,CLI
+43,SL Green Realty,Office,SLG
+44,GEO Group,Private prisons,GEO
+45,CBL Properties,Regional Malls,CBL
+46,Macerich,Regional Malls,MAC
+47,Pennsylvania Real Estate Investment Trust,Regional Malls,PEI
+48,Simon Property Group,Regional Malls,SPG
+49,Taubman Centers,Regional Malls,TCO
+50,Washington Prime Group,Regional Malls,WPG
+51,CubeSmart,Self-Storage,CUBE
+52,Extra Space Storage,Self-Storage,EXR
+53,Public Storage,Self-Storage,PSA
+54,Life Storage,Self-Storage,LSI
+55,Brixmor Property Group,Shopping Centers,BRX
+56,Cedar Realty Trust,Shopping Centers,CDR
+57,Federal Realty Investment Trust,Shopping Centers,FRT
+58,Kimco Realty,Shopping Centers,KIM
+59,RPT Realty,Shopping Centers,RPT
+60,Regency Centers,Shopping Centers,REG
+61,SITE Centers,Shopping Centers,SITC
+62,Tanger Factory Outlet Centers,Shopping Centers,SKT
+63,Urstadt Biddle Properties,Shopping Centers,UBP
+64,Weingarten Realty,Shopping Centers,WRI
+65,National Retail Properties,Single Tenant/NNN,NNN
+66,Realty Income Corporation,Single Tenant/NNN,O
+67,American Homes 4 Rent,Single-Family Houses,AMH
+68,American Campus Communities,Student Housing,ACC
+69,American Tower,Telecommunications,AMT
+70,Crown Castle,Telecommunications,CCI
+71,SBA Communications,Telecommunications,SBAC
+72,PotlatchDeltic,Timber,PCH
+73,Rayonier,Timber,RYN
+74,Weyerhaeuser,Timber,WY
